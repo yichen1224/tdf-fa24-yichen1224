@@ -19,3 +19,8 @@ This week, I designed a cool phone stand made of rocks. Check out all my cool sk
 This week, I tried to use grashopper (in Rhino 8) for parametric modeling.
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/begin.png">
+
+1. Firstly，create a suqare plane
+2. Input parameters and linked boxes
+
+
