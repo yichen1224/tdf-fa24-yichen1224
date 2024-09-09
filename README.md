@@ -17,4 +17,5 @@ This week, I designed a cool phone stand made of rocks. Check out all my cool sk
 # Week 2: My Report #
 
 This week, I tried to use grashopper (in Rhino 8) for parametric modeling.
+
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/begin.png">
