@@ -21,6 +21,11 @@ This week, I tried to use grashopper (in Rhino 8) for parametric modeling.
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/begin.png">
 
 1. Firstly，create a suqare plane
+
+<img width="200" alt="step one" src="assets/1-create square plane.png">
+
 2. Input parameters and linked boxes
+
+<img width="200" alt="step two" src="assets/2-input parameter box.png">
 
 
