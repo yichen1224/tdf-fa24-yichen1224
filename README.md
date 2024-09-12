@@ -10,7 +10,7 @@ Welcome to your new GitHub repository!
 # Week 1: My Report #
 ## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+This week, I watched a video on how to use jacobs hall's laser cutter and completed the tutorial.
 
 <img width="400" alt="leaser cutting" src="assets/leaser cutting.png">
 
