@@ -32,7 +32,8 @@ Firstly, I learned some basic operations through Youtube tutoring video. Then, I
 
 3. Try to bake the cube
 
+<img width="200" alt="step two" src="assets/2-input parameter box.png">
 
-4. Follow the 
+Here are some of my thoughts and conclusions about using Grasshopper
 
 
