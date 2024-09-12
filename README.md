@@ -31,7 +31,12 @@ Firstly, I learned some basic operations through Youtube tutoring video. Then, I
 
 <img width="800" alt="step two" src="assets/2-input parameter box.png">
 
-3. Try to bake the cube
+3. Extrude a square border to make a box
+
+<img width="800" alt="step two" src="assets/extrude.png">
+
+
+On Monday Course:
 
 <img width="800" alt="step two" src="assets/3-bake.png">
 
