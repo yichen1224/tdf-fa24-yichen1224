@@ -35,6 +35,10 @@ Firstly, I learned some basic operations through Youtube tutoring video. Then, I
 
 <img width="800" alt="step two" src="assets/extrude.png">
 
+4. Different from step 3, extrude a wall without floor(Take the space between the two boxes and extrude it)
+
+<img width="800" alt="step two" src="assets/wall without floor.png">
+
 
 On Monday Course:
 
