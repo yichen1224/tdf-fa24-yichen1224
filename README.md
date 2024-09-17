@@ -6,6 +6,8 @@ Welcome to your new GitHub repository!
 
 [week 2](README.md#week-2-My-report)
 
+[week 3](README.md#week-3-My-project)
+
 
 # Week 1: My Report #
 ## Week of 09/05/2024
@@ -46,5 +48,15 @@ On Monday Course:
 
 Here are some of my thoughts and conclusions about using Grasshopper
 <img width="800" alt="reflection" src="assets/reflection.png">
+
+
+# Week 3: My Project #
+
+This week, I began to design my own grasshopper project. 
+
+I'd like to create a Night Light with decoration function. Here is the process:
+
+
+
 
 
