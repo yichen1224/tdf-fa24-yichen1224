@@ -55,6 +55,9 @@ Here are some of my thoughts and conclusions about using Grasshopper
 This week, I began to design my own grasshopper project. 
 
 I'd like to create a Night Light with decoration function. Here is the process:
+<img width="800" alt="scale small" src="assets/scalesmall.png">
+
+<img width="800" alt="scale big" src="assets/scalebig.png">
 
 
 
