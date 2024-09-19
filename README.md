@@ -74,14 +74,15 @@ Rotate parameter:
 Distance parameter:
 <img width="800" alt="distance" src="assets/distance.png">
 
+Rendering:
+<img width="800" alt="outcome" src="assets/outcome.png">
+
 3d Printing:
 <img width="800" alt="3d printing" src="assets/3dprinting.png">
 
 <img width="800" alt="fill" src="assets/fill.png">
 
 <img width="800" alt="3dprinting" src="assets/3dprinting.JPG">
-
-<img width="800" alt="outcome" src="assets/outcome.png">
 
 <img width="800" alt="printed" src="assets/printed.JPG">
 
