@@ -83,6 +83,7 @@ Distance parameter:
 
 <img width="800" alt="outcome" src="assets/outcome.png">
 
+<img width="800" alt="printed" src="assets/printed.JPG">
 
 
 
