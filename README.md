@@ -64,11 +64,19 @@ I'd like to create a Night Light with decoration function. Here is the process:
 
 <img width="800" alt="distance" src="assets/distance.png">
 
+<img width="800" alt="structure" src="assets/structure.png">
+
+<img width="800" alt="how" src="assets/how.png">
+
 <img width="800" alt="3d printing" src="assets/3dprinting.png">
 
 <img width="800" alt="fill" src="assets/fill.png">
 
 <img width="800" alt="3dprinting" src="assets/3dprinting.JPG">
+
+<img width="800" alt="outcome" src="assets/outcome.png">
+
+
 
 
 
