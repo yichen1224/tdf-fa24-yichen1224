@@ -18,6 +18,7 @@ This week, I watched a video on how to use jacobs hall's laser cutter and comple
 
 
 # Week 2: My Report #
+## Week of 09/09/2024
 
 This week, I tried to use grasshopper (in Rhino 8) for parametric modeling. 
 
@@ -51,6 +52,7 @@ Here are some of my thoughts and conclusions about using Grasshopper
 
 
 # Week 3: My Project #
+## Week of 16/09/2024
 
 This week, I began to design my own grasshopper project. 
 
@@ -93,6 +95,27 @@ Rendering:
 <img width="800" alt="printed" src="assets/printed.JPG">
 
 
+
+# Week 4: My Report #
+## Week of 23/09/2024
+
+1. Digital Ecosystem 
+
+2. Photon 2(module)
+- Just like Arduino ide, using wi-fi to communicate(interact) between objects and human
+- Programing language: C++
+- More popular
+- Can be written inside VScode
+- Pins: digital & anolog Inputs
+- 3V
+- USB Power
+
+3. Human computer interaction(HCI)
+- Human -> Hardware -> Circuit -> Software
+- Input vs. Output
+
+4. Physical computing
+- 
 
 
 
