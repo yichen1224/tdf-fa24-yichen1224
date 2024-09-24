@@ -107,13 +107,15 @@ Rendering:
 
 - Examples: Multimodal interaction
      - Voice recogintion
+     - Gesture recogintion
+     - ......
 
 3. Photon 2(module)
 - Just like Arduino ide, using wi-fi to communicate(interact) between objects and human
 - Programing language: C++
 - More popular
 - Can be written inside VScode
-- Pins: digital & anolog Inputs
+- Pins: digital & anolog inputs/outputs
 - 3V
 - USB Power
 
@@ -126,6 +128,7 @@ Rendering:
 - Sub-categories (paper-Mareen Przyblle,2018)
 - Mental model(huamn sensing, physical boundary, virtual)
 
+5. Microcontroller
 
 
 
