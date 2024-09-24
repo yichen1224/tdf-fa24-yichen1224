@@ -115,6 +115,9 @@ Rendering:
 - Input vs. Output
 
 4. Physical computing
+- Interactive system <-> Interaction(Sensor) <-> Real world
+- Sub-categories (paper-Mareen Przyblle,2018)
+- Mental model(huamn sensing, physical boundary, virtual)
 - 
 
 
