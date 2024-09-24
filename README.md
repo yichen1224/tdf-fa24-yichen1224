@@ -55,6 +55,7 @@ Here are some of my thoughts and conclusions about using Grasshopper
 This week, I began to design my own grasshopper project. 
 
 I'd like to create a Night Light with decoration function. Here is the process:
+
 <img width="800" alt="step1" src="assets/step1.png">
 
 <img width="800" alt="step2" src="assets/step2.png">
@@ -64,20 +65,24 @@ I'd like to create a Night Light with decoration function. Here is the process:
 <img width="800" alt="how" src="assets/how.png">
 
 Scale parameter:
+
 <img width="800" alt="scale small" src="assets/scalesmall.png">
 
 <img width="800" alt="scale big" src="assets/scalebig.png">
 
 Rotate parameter:
+
 <img width="800" alt="rotation" src="assets/rotate.png">
 
 Distance parameter:
 <img width="800" alt="distance" src="assets/distance.png">
 
 Rendering:
+
 <img width="800" alt="outcome" src="assets/outcome.png">
 
 3d Printing:
+
 <img width="800" alt="3d printing" src="assets/3dprinting.png">
 
 <img width="800" alt="fill" src="assets/fill.png">
