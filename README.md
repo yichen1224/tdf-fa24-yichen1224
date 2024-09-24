@@ -75,6 +75,7 @@ Rotate parameter:
 <img width="800" alt="rotation" src="assets/rotate.png">
 
 Distance parameter:
+
 <img width="800" alt="distance" src="assets/distance.png">
 
 Rendering:
