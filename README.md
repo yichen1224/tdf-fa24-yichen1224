@@ -100,12 +100,12 @@ Rendering:
 ## Week of 23/09/2024
 
 1. Digital Ecosystem
-  1) Consideration
+- Consideration
      - Rapid prototyping
      - Making a thing
      - Interactive art
 
-  2) Examples: Multimodal interaction
+- Examples: Multimodal interaction
      - Voice recogintion
 
 3. Photon 2(module)
