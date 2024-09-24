@@ -99,9 +99,16 @@ Rendering:
 # Week 4: My Report #
 ## Week of 23/09/2024
 
-1. Digital Ecosystem 
+1. Digital Ecosystem
+  1) Consideration
+     - Rapid prototyping
+     - Making a thing
+     - Interactive art
 
-2. Photon 2(module)
+  2) Examples: Multimodal interaction
+     - Voice recogintion
+
+3. Photon 2(module)
 - Just like Arduino ide, using wi-fi to communicate(interact) between objects and human
 - Programing language: C++
 - More popular
@@ -118,7 +125,6 @@ Rendering:
 - Interactive system <-> Interaction(Sensor) <-> Real world
 - Sub-categories (paper-Mareen Przyblle,2018)
 - Mental model(huamn sensing, physical boundary, virtual)
-- 
 
 
 
