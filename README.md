@@ -130,6 +130,10 @@ Rendering:
 
 5. Microcontroller
 
+6. VS code
+- bash (Curl -X GET "route of file")
+- pipe
+
 
 
 
