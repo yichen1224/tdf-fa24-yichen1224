@@ -134,7 +134,8 @@ Rendering:
 - bash (Curl -X GET "route of file")
 - pipe
 
-HW: Diagram
+
+7. Homework: Diagram
 
 In a smart home ecosystem, users interact primarily through interfaces such as mobile applications or voice assistants. These interfaces allow users to issue commands, monitor device status, and customize settings for their home environment. For instance, a user might adjust lighting or temperature via a smartphone app.
 
