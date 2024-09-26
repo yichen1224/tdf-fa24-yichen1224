@@ -134,6 +134,17 @@ Rendering:
 - bash (Curl -X GET "route of file")
 - pipe
 
+HW: Diagram
+
+In a smart home ecosystem, users interact primarily through interfaces such as mobile applications or voice assistants. These interfaces allow users to issue commands, monitor device status, and customize settings for their home environment. For instance, a user might adjust lighting or temperature via a smartphone app.
+
+Smart home devices, including smart bulbs, thermostats, and security cameras, connect to an IoT platform, which acts as a centralized hub. This platform facilitates communication between various devices and enables data management. When a user sends a command through the interface, the IoT platform processes it, ensuring the appropriate device responds accordingly.
+
+Environmental factors are continuously monitored by sensors integrated into the smart home system. These sensors collect data on temperature, humidity, and occupancy. This information is transmitted to the IoT platform, allowing for real-time adjustments. For example, if a motion sensor detects a presence, the system might trigger lights or adjust the thermostat.
+
+Overall, the interaction between users, interfaces, smart devices, IoT platforms, and environmental conditions creates a seamless and automated living experience, enhancing comfort, security, and energy efficiency in the home.
+
+<img width="800" alt="map" src="assets/mapping.png">
 
 
 
