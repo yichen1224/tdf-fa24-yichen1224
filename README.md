@@ -171,24 +171,6 @@ Photon2 environment configuration and preliminary attempts:
 - pin connects physical sensor and photon2 (connects to cloud), and the code communicates with cloud and photon2 through #include "Particle.h" to control the output entity
 
 
-
-<img width="800" alt="photon2" src="assets/photon2.png">
-
-Photon2 Board
-
-     - 3.3v power
-     - GND
-     - Pin
-          - Digital:0,1
-          - Analog:Continuous Datasets
-
-Components
-
-     - Input/output
-     - +/- pin, some will have other pins
-     - Connect with + - on breadboard and D/A pins, serial log, etc. on photon2
-
-
 About code and physical I/O device
 
      a. Input device
