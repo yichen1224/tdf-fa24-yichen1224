@@ -162,3 +162,75 @@ Photon2 environment configuration and preliminary attempts:
 <img width="800" alt="attempts3" src="assets/attempts3.png">
 
 <img width="800" alt="attempts4" src="assets/attempts4.png">
+
+- The code initially contains two necessary functions: void setup() and void loop(). We can also add our own functions later, such as void button_pressed().
+- Variables include global variables and local variables. The difference is the scope of their application.
+- We can use C++ syntax to control variables if(), x++, etc.
+- pin connects physical sensor and photon2 (connects to cloud), and the code communicates with cloud and photon2 through #include "Particle.h" to control the output entity
+
+
+
+<img width="800" alt="photon2" src="assets/photon2.png">
+- 3.3v power
+- GND
+- Pin
+     - Digital:0,1
+     - Analog:Continuous Datasets
+
+Components
+- Input/output
+- +/- pin, some will have other pins
+- Connect with + - on breadboard and D/A pins, serial log, etc. on photon2
+
+About code and physical I/O device
+     a. Input device
+          - When adding a new input, you need to set a new pin interface and variable in the code, such as pin_t button_in=D2;
+          - In addition, related variables (of different data types) will be added, such as bool(determin the button is pressed //1 or not //0)
+          - If you want to call it conveniently, you can also add new functions, such as void button_pressed(){}
+
+     b. Output device
+          - We need to determine what inputs, variables, and functions control the output.
+          - In addition, you need to determine what the output mode is, such as whether the small light bulb is always on, the small light bulb is on every 2 seconds, etc.
+
+Timming System
+1）Required Components:
+     - Photon2 board
+     - Button
+     - LED
+     - 220-ohm resistor (for the LED)
+     - Breadboard and wires
+
+2）Circuit Setup:
+     - Connect one terminal of the button to Digital pin on the Photon2 and the other terminal to ground.
+     - Connect the anode of the LED to a pin and the cathode to a resistor connected to ground.
+
+3）Pseudocode
+// Setting
+- Define pin numbers for Button and LED
+- Variables to store button state and timing
+- Setup duration for timing (e.g. 5 minutes in milliseconds)
+
+// Funtion
+void setup() {
+  - Set button pin as input
+  - Set LED pin as output
+  - Ensure LED is off initially
+}
+
+void loop() {
+  - Check if button is pressed
+    -If Yes: Start timing
+         - Record the start time
+         - Start serial for debugging("Timing started!")
+  - If timing has started, check if 5 minutes have passed
+         - If 5 minutes have passed, change LED status
+}
+
+<img width="800" alt="curcuit" src="assets/curcuit.png">
+
+
+
+System missing in my life
+- Plant Watering Timer: A system that reminds you when to water your plants. It could use moisture sensors to track soil moisture and notify you when it’s time to water.
+- Cooking Timer with Multiple Alarms: A timer that can keep track of multiple cooking times for different dishes. Each alarm could trigger a different LED color or sound.
+- Sleep Aid System: A timer that gradually dims lights and plays soothing sounds over a period of time to help you fall asleep.
