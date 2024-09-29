@@ -8,6 +8,8 @@ Welcome to your new GitHub repository!
 
 [week 3](README.md#week-3-My-project)
 
+[week 4](README.md#week-4-My-project)
+
 
 # Week 1: My Report #
 ## Week of 09/05/2024
@@ -171,16 +173,21 @@ Photon2 environment configuration and preliminary attempts:
 
 
 <img width="800" alt="photon2" src="assets/photon2.png">
-- 3.3v power
-- GND
-- Pin
-     - Digital:0,1
-     - Analog:Continuous Datasets
+
+Photon2 Board
+
+     - 3.3v power
+     - GND
+     - Pin
+          - Digital:0,1
+          - Analog:Continuous Datasets
 
 Components
-- Input/output
-- +/- pin, some will have other pins
-- Connect with + - on breadboard and D/A pins, serial log, etc. on photon2
+
+     - Input/output
+     - +/- pin, some will have other pins
+     - Connect with + - on breadboard and D/A pins, serial log, etc. on photon2
+
 
 About code and physical I/O device
 
@@ -195,7 +202,9 @@ About code and physical I/O device
           - We need to determine what inputs, variables, and functions control the output.
           - In addition, you need to determine what the output mode is, such as whether the small light bulb is always on, the small light bulb is on every 2 seconds, etc.
 
+
 Timming System
+
 1）Required Components:
      
      - Photon2 board
