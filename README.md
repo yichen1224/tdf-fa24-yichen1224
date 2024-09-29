@@ -99,6 +99,8 @@ Rendering:
 # Week 4: My Report #
 ## Week of 23/09/2024
 
+Monday:
+
 1. Digital Ecosystem
 - Consideration
      - Rapid prototyping
@@ -149,3 +151,14 @@ Overall, the interaction between users, interfaces, smart devices, IoT platforms
 
 
 
+Thursday:
+
+Photon2 environment configuration and preliminary attempts:
+
+<img width="800" alt="attempts1" src="assets/attempts1.png">
+
+<img width="800" alt="attempts2" src="assets/attempts2.png">
+
+<img width="800" alt="attempts3" src="assets/attempts3.png">
+
+<img width="800" alt="attempts4" src="assets/attempts4.png">
