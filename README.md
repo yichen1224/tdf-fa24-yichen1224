@@ -2,13 +2,13 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[week 1](README.md#week-1-My-report)
 
 [week 2](README.md#week-2-My-report)
 
-[week 3](README.md#week-3-My-project)
+[week 3](README.md#week-3-My-report)
 
-[week 4](README.md#week-4-My-project)
+[week 4](README.md#week-4-My-report)
 
 
 # Week 1: My Report #
@@ -53,7 +53,7 @@ Here are some of my thoughts and conclusions about using Grasshopper
 <img width="800" alt="reflection" src="assets/reflection.png">
 
 
-# Week 3: My Project #
+# Week 3: My Report #
 ## Week of 16/09/2024
 
 This week, I began to design my own grasshopper project. 
