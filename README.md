@@ -183,17 +183,21 @@ Components
 - Connect with + - on breadboard and D/A pins, serial log, etc. on photon2
 
 About code and physical I/O device
+
      a. Input device
+          
           - When adding a new input, you need to set a new pin interface and variable in the code, such as pin_t button_in=D2;
           - In addition, related variables (of different data types) will be added, such as bool(determin the button is pressed //1 or not //0)
           - If you want to call it conveniently, you can also add new functions, such as void button_pressed(){}
 
      b. Output device
+         
           - We need to determine what inputs, variables, and functions control the output.
           - In addition, you need to determine what the output mode is, such as whether the small light bulb is always on, the small light bulb is on every 2 seconds, etc.
 
 Timming System
 1）Required Components:
+     
      - Photon2 board
      - Button
      - LED
@@ -201,10 +205,12 @@ Timming System
      - Breadboard and wires
 
 2）Circuit Setup:
+   
      - Connect one terminal of the button to Digital pin on the Photon2 and the other terminal to ground.
      - Connect the anode of the LED to a pin and the cathode to a resistor connected to ground.
 
 3）Pseudocode
+
 // Setting
 - Define pin numbers for Button and LED
 - Variables to store button state and timing
@@ -226,9 +232,7 @@ void loop() {
          - If 5 minutes have passed, change LED status
 }
 
-<img width="800" alt="curcuit" src="assets/curcuit.png">
-
-
+<img width="400" alt="curcuit" src="assets/curcuit.png">
 
 System missing in my life
 - Plant Watering Timer: A system that reminds you when to water your plants. It could use moisture sensors to track soil moisture and notify you when it’s time to water.
