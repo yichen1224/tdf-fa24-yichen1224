@@ -2,7 +2,7 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[09/05/2024](README.md#week-1)
+[week 1](README.md#week-1)
 
 [week 2](README.md#week-2)
 
@@ -10,6 +10,7 @@ Welcome to your new GitHub repository!
 
 [week 4](README.md#week-4)
 
+[week 5](README.md#week-5)
 
 # Week 1 #
 ## 09/05/2024 Thursday
@@ -139,7 +140,6 @@ Rendering:
 - bash (Curl -X GET "route of file")
 - pipe
 
-
 7. Homework: Diagram
 
 In a smart home ecosystem, users interact primarily through interfaces such as mobile applications or voice assistants. These interfaces allow users to issue commands, monitor device status, and customize settings for their home environment. For instance, a user might adjust lighting or temperature via a smartphone app.
@@ -185,6 +185,7 @@ About code and physical I/O device
           - In addition, you need to determine what the output mode is, such as whether the small light bulb is always on, the small light bulb is on every 2 seconds, etc.
 
 
+## 30/09/2024 Monday
 Timming System
 
 1）Required Components:
@@ -229,3 +230,32 @@ System missing in my life
 - Plant Watering Timer: A system that reminds you when to water your plants. It could use moisture sensors to track soil moisture and notify you when it’s time to water.
 - Cooking Timer with Multiple Alarms: A timer that can keep track of multiple cooking times for different dishes. Each alarm could trigger a different LED color or sound.
 - Sleep Aid System: A timer that gradually dims lights and plays soothing sounds over a period of time to help you fall asleep.
+
+# Week 5 #
+## 03/10/2024 Thursday
+
+1. Button -> LED pulse rate
+
+<img width="400" alt="buttontoled" src="assets/buttonled1.png">
+
+<img width="400" alt="buttontoled" src="assets/buttonled2.MOV">
+
+
+     a. Difference:
+        - User Interaction: These demos emphasize user input through a physical button, making the interaction more responsive
+        - Control Mechanism: Instead of pre-programmed behaviors, these projects allow for real-time control, which can lead to varied outcomes based on user actions.
+        - Visual Feedback: The LED pulsing creates a visual representation of user input, enhancing engagement compared to previous examples that might not have such feedback mechanisms.
+
+     b. Similarities:
+        - Basic Components: They still utilize fundamental electronics like LEDs, buttons, and possibly microcontrollers, similar to past projects.
+        - Programming Logic: The use of conditional statements and loops remains consistent across both types of projects.
+
+     c. Expanded:
+        - A feature that could be particularly relevant to daily life might be mood-based lighting, where users can input their current mood through the button (e.g., happy, relaxed, focused), and the LED pulse adjusts accordingly.
+
+     d. Machine Learning:
+        - Machine learning could enhance this system by analyzing user interactions over time to predict mood preferences. For instance, it could learn that a user prefers a slow pulse when winding down in the evening and automatically adjust the settings.
+
+     e. Large ecosystem:
+        - A combined ecosystem, one could envision a smart home lighting system that integrates multiple devices
+
