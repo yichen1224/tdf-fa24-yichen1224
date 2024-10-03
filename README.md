@@ -258,3 +258,14 @@ System missing in my life
      e. Large ecosystem:
         - A combined ecosystem, one could envision a smart home lighting system that integrates multiple devices
 
+
+2. Accel -> Servo
+
+### a. Simplified Points:
+
+1. **Sensor Interaction**: This project uses an accelerometer, allowing control through physical movement, unlike previous projects that relied on buttons or fixed inputs.
+
+2. **Real-Time Feedback**: The system responds instantly to tilting or movement, making it more intuitive and dynamic than slower controls.
+
+3. **Applications**: This setup can be applied in robotics, gaming, and gesture control, broadening its uses compared to more static projects.
+
