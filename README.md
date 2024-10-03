@@ -262,6 +262,7 @@ System missing in my life
 2. Accel -> Servo
 
      a. Difference:
+   
           1. Sensor Interaction: This project uses an accelerometer, allowing control through physical movement, unlike previous projects that relied on buttons or fixed inputs.
 
           2. Real-Time Feedback: The system responds instantly to tilting or movement, making it more intuitive and dynamic than slower controls.
@@ -269,10 +270,12 @@ System missing in my life
           3. Applications: This setup can be applied in robotics, gaming, and gesture control, broadening its uses compared to more static projects.
 
      b. Smilarity:
+   
           1. Basic Components: The use of microcontrollers, servos, and coding remains consistent with prior projects.
           2. Programming Logic: Conditional statements and control structures are still necessary to interpret accelerometer data and translate it into servo movements.
 
      c. Expanded:
+   
            1. Basic 
           
      d. Machine Learning:
@@ -280,7 +283,7 @@ System missing in my life
      e. Large ecosystem:
 
 
-3. Force sensitive resistor -> RGB-led color fader
+4. Force sensitive resistor -> RGB-led color fader
 
      a. Difference:
 
