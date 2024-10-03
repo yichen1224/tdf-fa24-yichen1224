@@ -261,36 +261,29 @@ System missing in my life
 
 2. Accel -> Servo
 
+<img width="400" alt="codeservo" src="assets/codeservo.png">
+
+<img width="400" alt="servo" src="assets/servo.png">
+
        a. Difference:
    
         - Sensor Interaction: This project uses an accelerometer, allowing control through physical movement, unlike previous projects that relied on buttons or fixed inputs.
         - Real-Time Feedback: The system responds instantly to tilting or movement, making it more intuitive and dynamic than slower controls.
         - Applications: This setup can be applied in robotics, gaming, and gesture control, broadening its uses compared to more static projects.
 
-
-
-     b. Smilarity:
+       b. Smilarity:
    
         - Basic Components: The use of microcontrollers, servos, and coding remains consistent with prior projects.
         - Programming Logic: Conditional statements and control structures are still necessary to interpret accelerometer data and translate it into servo movements.
 
-     c. Expanded:
-   
-        - The pressure sensor is placed on the surface of the percussion instrument. When the performer strikes with different force, different RGB colors of LED appear.
+       c. Expanded:   
+        - Incorporating accelerometers in drones design enhances stability, improves safety, and optimizes performance by providing critical data on balance and orientation. This technology is essential for developing advanced and reliable aircraft systems.
 
-     d. Machine Learning:
-   
-        - machine learning processes human touch pressure data by collecting, preprocessing, training models on the data, and using those models for real-time interpretation and adaptation, leading to more responsive and personalized user experiences.
-
-     e. Large ecosystem:
-   
-        - Touching-based Interaction System: People's touch varies in movement, strength, and emotional significance. We leverage these differences to design products that can respond to emotions or control output modes remotely.
-        
+       d. Machine Learning:
+        - Incorporating machine learning with accelerometer data in aircraft product design allows for enhanced stability monitoring, predictive analysis, and real-time decision-making, ultimately leading to safer and more efficient aircraft systems. This integration fosters continuous improvement in design and operational safety through advanced data-driven insights.
 
 
-
-
-4. Force sensitive resistor -> RGB-led color fader
+3. Force sensitive resistor -> RGB-led color fader
 
 <img width="400" alt="codeledcolor" src="assets/codeledcolor.png">
 
