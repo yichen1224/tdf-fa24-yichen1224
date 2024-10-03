@@ -285,6 +285,7 @@ System missing in my life
 
 4. Force sensitive resistor -> RGB-led color fader
 
+<img width="400" alt="ledcolor" src="assets/ledcolor.JPG">
 
      a. Difference:
    
