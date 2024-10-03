@@ -263,20 +263,20 @@ System missing in my life
 
      a. Difference:
    
-          1. Sensor Interaction: This project uses an accelerometer, allowing control through physical movement, unlike previous projects that relied on buttons or fixed inputs.
+          - Sensor Interaction: This project uses an accelerometer, allowing control through physical movement, unlike previous projects that relied on buttons or fixed inputs.
 
-          2. Real-Time Feedback: The system responds instantly to tilting or movement, making it more intuitive and dynamic than slower controls.
+          - Real-Time Feedback: The system responds instantly to tilting or movement, making it more intuitive and dynamic than slower controls.
 
-          3. Applications: This setup can be applied in robotics, gaming, and gesture control, broadening its uses compared to more static projects.
+          - Applications: This setup can be applied in robotics, gaming, and gesture control, broadening its uses compared to more static projects.
 
      b. Smilarity:
    
-          1. Basic Components: The use of microcontrollers, servos, and coding remains consistent with prior projects.
-          2. Programming Logic: Conditional statements and control structures are still necessary to interpret accelerometer data and translate it into servo movements.
+          - Basic Components: The use of microcontrollers, servos, and coding remains consistent with prior projects.
+          - Programming Logic: Conditional statements and control structures are still necessary to interpret accelerometer data and translate it into servo movements.
 
      c. Expanded:
    
-           1. Basic 
+           - Basic 
           
      d. Machine Learning:
 
@@ -289,8 +289,8 @@ System missing in my life
      a. Difference:
    
         - Input Method: This project uses a force sensor, which allows for pressure-sensitive control, unlike previous examples that may have relied on buttons or basic switches.
-          - Color Control: Instead of just on/off states, this project can produce a wide range of colors based on the applied pressure, introducing a richer and more dynamic interaction.
-          - Sensitivity: The ability to vary color intensity and hue based on the amount of force applied adds complexity and nuance compared to simpler input methods.
+        - Color Control: Instead of just on/off states, this project can produce a wide range of colors based on the applied pressure, introducing a richer and more dynamic interaction.
+        - Sensitivity: The ability to vary color intensity and hue based on the amount of force applied adds complexity and nuance compared to simpler input methods.
 
      b. Smilarity:
    
