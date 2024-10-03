@@ -287,10 +287,23 @@ System missing in my life
 
      a. Difference:
 
+          - Input Method: This project uses a force sensor, which allows for pressure-sensitive control, unlike previous examples that may have relied on buttons or basic switches.
+          - Color Control: Instead of just on/off states, this project can produce a wide range of colors based on the applied pressure, introducing a richer and more dynamic interaction.
+          - Sensitivity: The ability to vary color intensity and hue based on the amount of force applied adds complexity and nuance compared to simpler input methods.
+
+
      b. Smilarity:
+
+          - Basic Components: The project still uses fundamental electronics, including microcontrollers, LEDs, and sensors, similar to prior projects.
+          - Programming Logic: Users must write code to interpret the sensor data and translate it into color changes, maintaining the focus on control structures and logic.
 
      c. Expanded:
 
+          - The pressure sensor is placed on the surface of the percussion instrument. When the performer strikes with different force, different RGB colors of LED appear.
+
      d. Machine Learning:
+          - 
+
 
      e. Large ecosystem:
+          - 
