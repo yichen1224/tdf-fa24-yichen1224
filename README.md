@@ -240,54 +240,54 @@ System missing in my life
 
 <img width="400" alt="buttontoled" src="assets/buttontoled2.png">
 
-### a. Difference:
+     a. Difference:
         - User Interaction: These demos emphasize user input through a physical button, making the interaction more responsive
         - Control Mechanism: Instead of pre-programmed behaviors, these projects allow for real-time control, which can lead to varied outcomes based on user actions.
         - Visual Feedback: The LED pulsing creates a visual representation of user input, enhancing engagement compared to previous examples that might not have such feedback mechanisms.
 
-### b. Smilarity:
+     b. Smilarity:
         - Basic Components: They still utilize fundamental electronics like LEDs, buttons, and possibly microcontrollers, similar to past projects.
         - Programming Logic: The use of conditional statements and loops remains consistent across both types of projects.
 
-### c. Expanded:
+     c. Expanded:
         - A feature that could be particularly relevant to daily life might be mood-based lighting, where users can input their current mood through the button (e.g., happy, relaxed, focused), and the LED pulse adjusts accordingly.
 
-### d. Machine Learning:
+     d. Machine Learning:
         - Machine learning could enhance this system by analyzing user interactions over time to predict mood preferences. For instance, it could learn that a user prefers a slow pulse when winding down in the evening and automatically adjust the settings.
 
-### e. Large ecosystem:
+     e. Large ecosystem:
         - A combined ecosystem, one could envision a smart home lighting system that integrates multiple devices
 
 
 2. Accel -> Servo
 
-### a. Difference:
+     a. Difference:
           1. Sensor Interaction: This project uses an accelerometer, allowing control through physical movement, unlike previous projects that relied on buttons or fixed inputs.
 
           2. Real-Time Feedback: The system responds instantly to tilting or movement, making it more intuitive and dynamic than slower controls.
 
           3. Applications: This setup can be applied in robotics, gaming, and gesture control, broadening its uses compared to more static projects.
 
-### b. Smilarity:
+     b. Smilarity:
           1. Basic Components: The use of microcontrollers, servos, and coding remains consistent with prior projects.
           2. Programming Logic: Conditional statements and control structures are still necessary to interpret accelerometer data and translate it into servo movements.
 
-### c. Expanded:
+     c. Expanded:
            1. Basic 
           
-### d. Machine Learning:
+     d. Machine Learning:
 
-### e. Large ecosystem:
+     e. Large ecosystem:
 
 
 3. Force sensitive resistor -> RGB-led color fader
 
-### a. Difference:
+     a. Difference:
 
-### b. Smilarity:
+     b. Smilarity:
 
-### c. Expanded:
+     c. Expanded:
 
-### d. Machine Learning:
+     d. Machine Learning:
 
-### e. Large ecosystem:
+     e. Large ecosystem:
