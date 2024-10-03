@@ -2,25 +2,25 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-My-report)
+[09/05/2024](README.md#week-1)
 
-[week 2](README.md#week-2-My-report)
+[week 2](README.md#week-2)
 
-[week 3](README.md#week-3-My-report)
+[week 3](README.md#week-3)
 
-[week 4](README.md#week-4-My-report)
+[week 4](README.md#week-4)
 
 
-# Week 1: My Report #
-## Week of 09/05/2024
+# Week 1 #
+## 09/05/2024 Thursday
 
 This week, I watched a video on how to use jacobs hall's laser cutter and completed the tutorial.
 
 <img width="800" alt="leaser cutting" src="assets/leaser cutting.png">
 
 
-# Week 2: My Report #
-## Week of 09/09/2024
+# Week 2 #
+## 09/09/2024 Monday
 
 This week, I tried to use grasshopper (in Rhino 8) for parametric modeling. 
 
@@ -54,7 +54,7 @@ Here are some of my thoughts and conclusions about using Grasshopper
 
 
 # Week 3: My Report #
-## Week of 16/09/2024
+## 16/09/2024 Monday
 
 This week, I began to design my own grasshopper project. 
 
@@ -86,6 +86,9 @@ Rendering:
 
 <img width="800" alt="outcome" src="assets/outcome.png">
 
+
+## 19/09/2024 Thursday
+
 3d Printing:
 
 <img width="800" alt="3d printing" src="assets/3dprinting.png">
@@ -98,10 +101,8 @@ Rendering:
 
 
 
-# Week 4: My Report #
-## Week of 23/09/2024
-
-Monday:
+# Week 4 #
+## 23/09/2024 Monday
 
 1. Digital Ecosystem
 - Consideration
@@ -152,8 +153,7 @@ Overall, the interaction between users, interfaces, smart devices, IoT platforms
 <img width="800" alt="map" src="assets/mapping.png">
 
 
-
-Thursday:
+## 26/09/2024 Thursday
 
 Photon2 environment configuration and preliminary attempts:
 
