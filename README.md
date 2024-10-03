@@ -236,9 +236,9 @@ System missing in my life
 
 1. Button -> LED pulse rate
 
-<img width="400" alt="buttontoled" src="assets/buttonled1.png">
+<img width="400" alt="buttontoled" src="assets/buttontoled1.png">
 
-<img width="400" alt="buttontoled" src="assets/buttonled2.mp4">
+<img width="400" alt="buttontoled" src="assets/buttontoled2.mp4">
 
      a. Difference:
         - User Interaction: These demos emphasize user input through a physical button, making the interaction more responsive
