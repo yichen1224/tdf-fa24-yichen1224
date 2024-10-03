@@ -307,7 +307,7 @@ System missing in my life
 
      d. Machine Learning:
    
-        -
+        - machine learning processes human touch pressure data by collecting, preprocessing, training models on the data, and using those models for real-time interpretation and adaptation, leading to more responsive and personalized user experiences.
 
      e. Large ecosystem:
    
