@@ -283,7 +283,8 @@ System missing in my life
      e. Large ecosystem:
 
 
-4. Force sensitive resistor -> RGB-led color fader
+
+3. Force sensitive resistor -> RGB-led color fader
 
 <img width="400" alt="codeledcolor" src="assets/codeledcolor.png">
 
@@ -310,4 +311,5 @@ System missing in my life
 
      e. Large ecosystem:
    
-        -
+        - Touching-based Interaction System: People's touch varies in movement, strength, and emotional significance. We leverage these differences to design products that can respond to emotions or control output modes remotely.
+        
