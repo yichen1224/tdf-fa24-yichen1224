@@ -12,6 +12,8 @@ Welcome to your new GitHub repository!
 
 [week 5](README.md#week-5)
 
+[week 6](README.md#week-5)
+
 # Week 1 #
 ## 09/05/2024 Thursday
 
@@ -312,3 +314,14 @@ System missing in my life
    
         - Touching-based Interaction System: People's touch varies in movement, strength, and emotional significance. We leverage these differences to design products that can respond to emotions or control output modes remotely.
         
+
+
+# Week 6 #
+## 10/10/2024 Thursday
+
+This week I worked with my teammates to start brandstorm project2. Here is our idea and outcome：
+
+<img width="400" alt="tdfp2" src="assets/tdfproject2.png">
+
+<img width="400" alt="tdfp2c" src="assets/tdfproject2circuit.png">
+
