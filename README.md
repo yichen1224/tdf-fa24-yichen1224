@@ -321,7 +321,10 @@ System missing in my life
 
 This week I worked with my teammates to start brandstorm project2. Here is our idea and outcome：
 
-<img width="400" alt="tdfp2" src="assets/tdfproject2.png">
+<img width="400" alt="tdfp2" src="assets/tdfproject2.jpg">
 
-<img width="400" alt="tdfp2c" src="assets/tdfproject2circuit.png">
+<img width="400" alt="tdfp2s" src="assets/tdfp2structure.png">
 
+<img width="400" alt="tdfp2c" src="assets/tdfp2circuit.png">
+
+<img width="400" alt="tdfp2story" src="assets/tdfp2story.png">
