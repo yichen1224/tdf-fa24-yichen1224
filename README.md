@@ -338,7 +338,7 @@ Here is our progress:
 
 We first tested the numerical output (0-3000) of the pressure sensor caused by putting our hands together to determine the trigger data range (300<x<3000). 
 
-<img width="800" alt="forcesensor" src="assets/force sensor1.jpg">
+<img width="800" alt="forcesensor" src="assets/force sensor1.JPG">
 
 Next, we connected two red LED lights to ensure that they can be lit within the above values.
 
