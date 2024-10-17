@@ -342,7 +342,7 @@ We first tested the numerical output (0-3000) of the pressure sensor caused by p
 
 Next, we connected two red LED lights to ensure that they can be lit within the above values.
 
-<img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
+<img width="800" alt="led1" src="assets/led1.JPG">
 
 What made us feel difficult was that the force sensor showed a very small value when the pressure was high, and a value of 3000+ when there was no pressure (which was contrary to our expectations: the smaller the pressure, the smaller the value, and the greater the pressure, the larger the value). Thanks to our mentor for adding a resistor to change the circuit connection, the value was corrected.
 
