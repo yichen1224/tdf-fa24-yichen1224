@@ -14,6 +14,8 @@ Welcome to your new GitHub repository!
 
 [week 6](README.md#week-6)
 
+[week 7](README.md#week-7)
+
 # Week 1 #
 ## 09/05/2024 Thursday
 
@@ -328,3 +330,25 @@ This week I worked with my teammates to start brandstorm project2. Here is our i
 <img width="400" alt="tdfp2c" src="assets/tdfprcircuit.png">
 
 <img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
+
+## 10/14/2024 Monday
+I worked with Jieru to start testing the feasibility of each interactive part of Photon2. Our plan was to test the Force sensor triggering the lotus light to light up on Monday, and to test the coin tossing and the servo rotating the wooden stick to hit the wooden fish on Thursday.
+
+Here is our progress:
+
+We first tested the numerical output (0-3000) of the pressure sensor caused by putting our hands together to determine the trigger data range (300<x<3000). 
+
+<img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
+
+Next, we connected two red LED lights to ensure that they can be lit within the above values.
+
+<img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
+
+What made us feel difficult was that the force sensor showed a very small value when the pressure was high, and a value of 3000+ when there was no pressure (which was contrary to our expectations: the smaller the pressure, the smaller the value, and the greater the pressure, the larger the value). Thanks to our mentor for adding a resistor to change the circuit connection, the value was corrected.
+
+<img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
+
+We finally achieve what we want，and next step is how to hide the circuit and sensors into decorations.
+
+<img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
+
