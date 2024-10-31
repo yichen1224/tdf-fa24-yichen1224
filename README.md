@@ -360,3 +360,9 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 # Week 9 #
 ## 10/31/2024 Thursday
 
+<img width="800" alt="llm-1" src="assets/llm-1.png">
+
+<img width="800" alt="llm-2" src="assets/llm-2.png">
+
+<img width="800" alt="llm-3" src="assets/llm-3.png">
+
