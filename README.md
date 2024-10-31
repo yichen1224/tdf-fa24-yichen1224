@@ -16,6 +16,8 @@ Welcome to your new GitHub repository!
 
 [week 7](README.md#week-7)
 
+[week 9](README.md#week-9)
+
 # Week 1 #
 ## 09/05/2024 Thursday
 
@@ -353,3 +355,8 @@ What made us feel difficult was that the force sensor showed a very small value 
 We finally achieve what we want，and next step is how to hide the circuit and sensors into decorations.
 
 <img width="800" alt="final1" src="assets/final1.jpg">
+
+
+# Week 9 #
+## 10/31/2024 Thursday
+
