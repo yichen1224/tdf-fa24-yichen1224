@@ -359,7 +359,7 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 <img width="800" alt="final1" src="assets/final1.jpg">
 
 
-# Week 10 #
+# Week 9 #
 ## 10/31/2024 Thursday
 
 <img width="800" alt="llm-1" src="assets/llm-1.png">
