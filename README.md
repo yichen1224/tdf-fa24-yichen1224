@@ -18,6 +18,8 @@ Welcome to your new GitHub repository!
 
 [week 9](README.md#week-9)
 
+[week 10](README.md#week-10)
+
 # Week 1 #
 ## 09/05/2024 Thursday
 
@@ -357,7 +359,7 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 <img width="800" alt="final1" src="assets/final1.jpg">
 
 
-# Week 9 #
+# Week 10 #
 ## 10/31/2024 Thursday
 
 <img width="800" alt="llm-1" src="assets/llm-1.png">
@@ -365,4 +367,68 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 <img width="800" alt="llm-2" src="assets/llm-2.png">
 
 <img width="800" alt="llm-3" src="assets/llm-3.png">
+
+
+# Week 10 #
+## 11/04/2024 Monday
+
+Experiment 1
+
+<img width="800" alt="llm-e1" src="assets/tdf-p3-experiment/experiment1/basic-1.png">
+
+<img width="800" alt="llm-e1" src="assets/tdf-p3-experiment/experiment1/basic-2.png">
+
+<img width="800" alt="llm-e1" src="assets/tdf-p3-experiment/experiment1/basic-3.png">
+
+<img width="800" alt="llm-e1" src="assets/tdf-p3-experiment/experiment1/4.png">
+
+<img width="800" alt="llm-e1" src="assets/tdf-p3-experiment/experiment1/5.png">
+
+<img width="800" alt="llm-e1" src="assets/tdf-p3-experiment/experiment1/6.png">
+
+Experiment 2
+
+<img width="800" alt="llm-e2" src="assets/tdf-p3-experiment/experiment2/1.png">
+
+<img width="800" alt="llm-e2" src="assets/tdf-p3-experiment/experiment2/2.png">
+
+<img width="800" alt="llm-e2" src="assets/tdf-p3-experiment/experiment2/3.png">
+
+<img width="800" alt="llm-e2" src="assets/tdf-p3-experiment/experiment2/4.png">
+
+<img width="800" alt="llm-e2" src="assets/tdf-p3-experiment/experiment2/5.png">
+
+## 11/07/2024 Thursday
+
+Experiment 3
+
+<img width="800" alt="llm-e3" src="assets/tdf-p3-experiment/experiment3/1.png">
+
+<img width="800" alt="llm-e3" src="assets/tdf-p3-experiment/experiment3/2.png">
+
+<img width="800" alt="llm-e3" src="assets/tdf-p3-experiment/experiment3/3.png">
+
+<img width="800" alt="llm-e3" src="assets/tdf-p3-experiment/experiment3/4.png">
+
+
+Experiment 4
+
+<img width="800" alt="llm-e4" src="assets/tdf-p3-experiment/experiment4/01.png">
+
+<img width="800" alt="llm-e4" src="assets/tdf-p3-experiment/experiment4/02.png">
+
+<img width="800" alt="llm-e4" src="assets/tdf-p3-experiment/experiment4/03.png">
+
+
+Experiment 5
+
+<img width="800" alt="llm-e5" src="assets/tdf-p3-experiment/final experiment/截屏2024-11-06 23.49.11.png">
+
+<img width="800" alt="llm-e5" src="assets/tdf-p3-experiment/final experiment/截屏2024-11-06 23.50.17.png">
+
+<img width="800" alt="llm-e5" src="assets/tdf-p3-experiment/final experiment/截屏2024-11-06 23.49.23.png">
+
+
+
+
 
