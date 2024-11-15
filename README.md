@@ -20,6 +20,8 @@ Welcome to your new GitHub repository!
 
 [week 10](README.md#week-10)
 
+[week 11](README.md#week-11)
+
 # Week 1 #
 ## 09/05/2024 Thursday
 
@@ -430,5 +432,25 @@ Experiment 5
 
 
 
+# Week 11 #
+## 11/11/2024 Monday
+## 11/14/2024 Thursday
+
+This week, I begin to design my 4th projects with my parterner. We decide to focus on photon 2 and parameter modeling, and there are 2 similar ideas (Emotional computing) with different scope:
+
+1. Interactive Installation
+   
+   - Immersive meditation experience
+   - LED lights with optical fibers
+   - Hartrate sensor & humidity and temperature sensor
+   
+2. Wearable
+
+   - Wearable devices that show emotions
+   - LED lights with optical fibers
+   - Hartrate sensor & humidity and temperature sensor
+
+This weekend, we will continue to go deeper into these ideas, sketch the system and decide what to do.
+   
 
 
