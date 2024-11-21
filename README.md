@@ -22,7 +22,7 @@ Welcome to your new GitHub repository!
 
 [week 11](README.md#week-11)
 
-[week 11](README.md#week-12)
+[week 12](README.md#week-12)
 
 # Week 1 #
 ## 09/05/2024 Thursday
