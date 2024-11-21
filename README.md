@@ -463,7 +463,16 @@ This week, together with my teammates, we decided what to do in project 4:
 
 Luma Flutter-Interactive Emotion-Responsive Device
 
+<img width="800" alt="llm-e5" src="assets/Frame 1.png">
+
 which is an innovative wearable device designed to detect and visualize the emotional state of the user through physiological indicators in real-time. It gauges emotional responses by monitoring key metrics such as palm temperature, humidity, and heart rate. 
+
+<img width="800" alt="llm-e5" src="assets/Frame 2.png">
 
 We analysis the system diagram and make plans of following weeks' production.
 
+<img width="800" alt="llm-e5" src="assets/Frame 3.png">
+
+<img width="800" alt="llm-e5" src="assets/Frame 4.png">
+
+<img width="800" alt="llm-e5" src="assets/Frame 5.png">
