@@ -22,6 +22,8 @@ Welcome to your new GitHub repository!
 
 [week 11](README.md#week-11)
 
+[week 11](README.md#week-12)
+
 # Week 1 #
 ## 09/05/2024 Thursday
 
@@ -453,4 +455,15 @@ This week, I begin to design my 4th projects with my parterner. We decide to foc
 This weekend, we will continue to go deeper into these ideas, sketch the system and decide what to do.
    
 
+# Week 12 #
+## 11/18/2024 Monday
+## 11/21/2024 Thursday
+
+This week, together with my teammates, we decided what to do in project 4:
+
+Luma Flutter-Interactive Emotion-Responsive Device
+
+which is an innovative wearable device designed to detect and visualize the emotional state of the user through physiological indicators in real-time. It gauges emotional responses by monitoring key metrics such as palm temperature, humidity, and heart rate. 
+
+We analysis the system diagram and make plans of following weeks' production.
 
