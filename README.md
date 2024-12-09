@@ -24,6 +24,10 @@ Welcome to your new GitHub repository!
 
 [week 12](README.md#week-12)
 
+[week 13](README.md#week-13)
+
+[week 14](README.md#week-14)
+
 # Week 1 #
 ## Aug 29 - Sep 5
 
