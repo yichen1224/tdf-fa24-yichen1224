@@ -25,7 +25,7 @@ Welcome to your new GitHub repository!
 [week 12](README.md#week-12)
 
 # Week 1 #
-## 09/05/2024 Thursday
+## Aug 29 - Sep 5
 
 This week, I watched a video on how to use jacobs hall's laser cutter and completed the tutorial.
 
@@ -33,7 +33,7 @@ This week, I watched a video on how to use jacobs hall's laser cutter and comple
 
 
 # Week 2 #
-## 09/09/2024 Monday
+## Sep 5 - Sep 12
 
 This week, I tried to use grasshopper (in Rhino 8) for parametric modeling. 
 
@@ -67,7 +67,7 @@ Here are some of my thoughts and conclusions about using Grasshopper
 
 
 # Week 3: My Report #
-## 16/09/2024 Monday
+## Sep 12 - Sep 19
 
 This week, I began to design my own grasshopper project. 
 
@@ -99,9 +99,6 @@ Rendering:
 
 <img width="800" alt="outcome" src="assets/outcome.png">
 
-
-## 19/09/2024 Thursday
-
 3d Printing:
 
 <img width="800" alt="3d printing" src="assets/3dprinting.png">
@@ -115,7 +112,7 @@ Rendering:
 
 
 # Week 4 #
-## 23/09/2024 Monday
+## Sep 19 - Sep 26
 
 1. Digital Ecosystem
 - Consideration
@@ -164,9 +161,6 @@ Overall, the interaction between users, interfaces, smart devices, IoT platforms
 
 <img width="800" alt="map" src="assets/mapping.png">
 
-
-## 26/09/2024 Thursday
-
 Photon2 environment configuration and preliminary attempts:
 
 <img width="800" alt="attempts1" src="assets/attempts1.png">
@@ -182,7 +176,6 @@ Photon2 environment configuration and preliminary attempts:
 - We can use C++ syntax to control variables if(), x++, etc.
 - pin connects physical sensor and photon2 (connects to cloud), and the code communicates with cloud and photon2 through #include "Particle.h" to control the output entity
 
-
 About code and physical I/O device
 
      a. Input device
@@ -197,7 +190,9 @@ About code and physical I/O device
           - In addition, you need to determine what the output mode is, such as whether the small light bulb is always on, the small light bulb is on every 2 seconds, etc.
 
 
-## 30/09/2024 Monday
+# Week 5 #
+## Sep 26 - Oct 03
+
 Timming System
 
 1）Required Components:
@@ -243,8 +238,7 @@ System missing in my life
 - Cooking Timer with Multiple Alarms: A timer that can keep track of multiple cooking times for different dishes. Each alarm could trigger a different LED color or sound.
 - Sleep Aid System: A timer that gradually dims lights and plays soothing sounds over a period of time to help you fall asleep.
 
-# Week 5 #
-## 03/10/2024 Thursday
+--------------------------------------------------------------------
 
 1. Button -> LED pulse rate
 
@@ -327,7 +321,7 @@ System missing in my life
 
 
 # Week 6 #
-## 10/10/2024 Thursday
+## Oct 03 - Oct 10
 
 This week I worked with my teammates to start brandstorm project2. Here is our idea and outcome：
 
@@ -339,7 +333,10 @@ This week I worked with my teammates to start brandstorm project2. Here is our i
 
 <img width="800" alt="tdfp2story" src="assets/tdfp2story.png">
 
-## 10/14/2024 Monday
+
+# Week 7 #
+## Oct 10 - Oct 17
+
 I worked with Jieru to start testing the feasibility of each interactive part of Photon2. Our plan was to test the Force sensor triggering the lotus light to light up on Monday, and to test the coin tossing and the servo rotating the wooden stick to hit the wooden fish on Thursday.
 
 Here is our progress:
@@ -363,8 +360,19 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 <img width="800" alt="final1" src="assets/final1.jpg">
 
 
+# Week 8 #
+## Oct 17 - Oct 24
+This week, I togethered with Jieru to finish the production of our project 2 and make video demo for all mdesians to know more about our project. I also watched many interesting IOT products created by my classmates. The one that impressed me the most was the garbage cleaning robot made by Jingru & Yixuan & Zhuojia. It not only has a cute appearance, but also has complete functions and promotes environmental protection concepts.
+
+<img width="800" alt="llm-1" src="assets/oct17-1.png">
+
+<img width="800" alt="llm-1" src="assets/oct17-2.png">
+
+<img width="800" alt="llm-1" src="assets/oct17-3.png">
+
+
 # Week 9 #
-## 10/31/2024 Thursday
+## Oct 24 - Oct 31
 
 <img width="800" alt="llm-1" src="assets/llm-1.png">
 
@@ -374,7 +382,7 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 
 
 # Week 10 #
-## 11/04/2024 Monday
+## Oct 31 - Nov 07
 
 Experiment 1
 
@@ -402,7 +410,6 @@ Experiment 2
 
 <img width="800" alt="llm-e2" src="assets/tdf-p3-experiment/experiment2/5.png">
 
-## 11/07/2024 Thursday
 
 Experiment 3
 
@@ -435,8 +442,7 @@ Experiment 5
 
 
 # Week 11 #
-## 11/11/2024 Monday
-## 11/14/2024 Thursday
+## Nov 07 - Nov 14
 
 This week, I begin to design my 4th projects with my parterner. We decide to focus on photon 2 and parameter modeling, and there are 2 similar ideas (Emotional computing) with different scope:
 
@@ -456,8 +462,7 @@ This weekend, we will continue to go deeper into these ideas, sketch the system 
    
 
 # Week 12 #
-## 11/18/2024 Monday
-## 11/21/2024 Thursday
+## Nov 14 - Nov 21
 
 This week, together with my teammates, we decided what to do in project 4:
 
@@ -476,3 +481,37 @@ We analysis the system diagram and make plans of following weeks' production.
 <img width="800" alt="llm-e5" src="assets/Frame 4.png">
 
 <img width="800" alt="llm-e5" src="assets/Frame 5.png">
+
+
+# Week 13 #
+## Nov 21 - Nov 28 Thanks Giving Holiday
+
+# Week 14 #
+## Nov 28 - Dec 05
+
+This week, together with my teammates, we produced our project 4:
+- Coding with Arduino & photon2
+- Parametric modeling with Grasshopper
+- Manual assembly of circuits, wires, decorations, etc. to form a complete product entity
+- Take pictures and videos of the final product
+- Editing, dubbing, and making demonstration videos
+
+<img width="800" alt="llm-e5" src="assets/nov28-1.png">
+
+<img width="800" alt="llm-e5" src="assets/nov28-2.png">
+
+<img width="800" alt="llm-e5" src="assets/nov28-3.png">
+
+<img width="800" alt="llm-e5" src="assets/nov28-4.png">
+
+<img width="800" alt="llm-e5" src="assets/nov28-5.png">
+
+<img width="800" alt="llm-e5" src="assets/nov28-6.png">
+
+
+
+
+
+
+
+
