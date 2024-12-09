@@ -368,11 +368,11 @@ We finally achieve what we want，and next step is how to hide the circuit and s
 ## Oct 17 - Oct 24
 This week, I togethered with Jieru to finish the production of our project 2 and make video demo for all mdesians to know more about our project. I also watched many interesting IOT products created by my classmates. The one that impressed me the most was the garbage cleaning robot made by Jingru & Yixuan & Zhuojia. It not only has a cute appearance, but also has complete functions and promotes environmental protection concepts.
 
-<img width="800" alt="llm-1" src="assets/oct17-1.png">
+<img width="800" alt="llm-1" src="assets/oct-1.JPG">
 
-<img width="800" alt="llm-1" src="assets/oct17-2.png">
+<img width="800" alt="llm-1" src="assets/oct-2.JPG">
 
-<img width="800" alt="llm-1" src="assets/oct17-3.png">
+<img width="800" alt="llm-1" src="assets/oct-3.jpg">
 
 
 # Week 9 #
