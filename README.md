@@ -500,17 +500,17 @@ This week, together with my teammates, we produced our project 4:
 - Take pictures and videos of the final product
 - Editing, dubbing, and making demonstration videos
 
-<img width="800" alt="llm-e5" src="assets/nov28-1.png">
+<img width="800" alt="1" src="assets/nov28-1.JPG">
 
-<img width="800" alt="llm-e5" src="assets/nov28-2.png">
+<img width="800" alt="2" src="assets/nov28-2.JPG">
 
-<img width="800" alt="llm-e5" src="assets/nov28-3.png">
+<img width="800" alt="3" src="assets/nov28-3.JPG">
 
-<img width="800" alt="llm-e5" src="assets/nov28-4.png">
+<img width="800" alt="4" src="assets/nov28-4.JPG">
 
-<img width="800" alt="llm-e5" src="assets/nov28-5.png">
+<img width="800" alt="5" src="assets/nov28-5.JPG">
 
-<img width="800" alt="llm-e5" src="assets/nov28-6.png">
+<img width="800" alt="6" src="assets/nov28-6.JPG">
 
 
 
